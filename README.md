@@ -1,8 +1,9 @@
-🚘# Car website
-Responsive Car website Using HTML CSS & JavaScript
-Contains animations when scrolling.
-Smooth scrolling in each section.
-Developed first with the Mobile First methodology, then for desktop.
+
+# Car website
+Responsive Car website Using HTML CSS & JavaScript.\
+Contains animations when scrolling.\
+Smooth scrolling in each section.\
+Developed first with the Mobile First methodology, then for desktop.\
 Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
 ![Screenshot_20231003_192829](https://github.com/Awadg8/CAR-SELLER-APP/assets/127823055/70bdbe12-a5a2-4d05-a9f1-109521ac9c0f)
